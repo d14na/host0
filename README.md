@@ -1,23 +1,11 @@
-# Node Zero
+# Host Zero
 
-[![Build Status](https://travis-ci.org/d14na/node0.png?branch=master)](https://travis-ci.org/d14na/node0)
-[![NPM](https://img.shields.io/npm/v/node0.svg)](https://www.npmjs.org/package/node0)
+[![Build Status](https://travis-ci.org/d14na/host0.png?branch=master)](https://travis-ci.org/d14na/host0)
+[![NPM](https://img.shields.io/npm/v/host0.svg)](https://www.npmjs.org/package/host0)
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
-Pure JavaScript implementation of ZeroNet.
-
-## getZiteInfo
-
-1. Title *(required)*
-2. Description *(required)*
-3. Icon *(min: 32px² | max: 512px²)*
-4. Banner
-5. Screens
-6. Rating
-7. Tags *(keywords)*
-8. Tagline *(short description displayed in searches)*
-9. Plugins *(chat, forum, dropbox, etc)*
+Hosting services for Zer0̸net.
 
 ## Development Roadmap — 2018
 
