@@ -5,7 +5,7 @@
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
-Hosting services for Zer0̸net.
+Data storage services designed specifically for supporting the Zeronet.
 
 ## Development Roadmap — 2018
 
